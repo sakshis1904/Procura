@@ -14,7 +14,9 @@ Procura is an intelligent platform designed to streamline the Request for Propos
 
 <img width="1600" height="835" alt="image" src="https://github.com/user-attachments/assets/a40c3c95-6e47-4c7c-805b-a3ea32f5d62d" />
 
+
 <img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/f358d557-f291-47cb-a864-eebe65b815e0" />
+
 
 <img width="1600" height="827" alt="image" src="https://github.com/user-attachments/assets/fe8c85ca-78eb-4dcf-b838-8aeadaaa425f" />
 
